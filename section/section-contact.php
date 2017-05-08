@@ -24,7 +24,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="form-group has-icon-left form-control-email">
             <label class="sr-only" for="adserContact">Kontak</label>
-            <input type="text" class="form-control form-control-lg" id="adserContact" placeholder="Telepon/Email" required>
+            <input type="number" class="form-control form-control-lg" id="adserContact" placeholder="Telepon" required>
           </div>
         </div>
         <div class="col-md-6 col-xl-2">

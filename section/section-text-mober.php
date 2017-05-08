@@ -11,7 +11,7 @@
         <div class="col-md-6 col-xl-4">
           <div class="form-group has-icon-left form-control-email">
             <label class="sr-only" for="inputEmail">Kontak</label>
-            <input type="text" class="form-control form-control-lg" id="moberContact" placeholder="Nomor Handphone" required>
+            <input type="number" class="form-control form-control-lg" id="moberContact" placeholder="Nomor Handphone" required>
           </div>
         </div>
         <div class="col-md-6 col-xl-2">
@@ -21,12 +21,12 @@
         </div>
       </div>
     </form>
-    <h1 class="text-xs-center text-xl-left text-success">Mober (Driver)</h1>
+    <h1 class="text-xs-center text-xl-left text-success">Mober (Mobilan Partner)</h1>
     <div class="row p-y-a">
       <div class="col-md-8">
         <p class="">Jadilah Mober di <b class="text-success">Mobilan.id</b> dan dapatkan penghasilan tambahan hingga <b>1,5 JUTA</b> per bulan <br>
         Bergabunglah menjadi <b>MOBER</b> kami dan dapatkan <em>penghasilan tambahan</em> pertama anda</p>
-        <p class="">Mober atau Driver adalah anda yang kesehariannya mengemudikan mobil baik untuk menuju kantor atau berkendara kemanapun dengan mobil. Hanya dengan memasangkan iklan di kendaraan anda, anda telah mengubah kendaraan anda menjadi sumber penghasilan tambahan.</p>
+        <p class="">Mober atau Mobilan Partner adalah anda yang kesehariannya mengemudikan mobil baik untuk menuju kantor atau berkendara kemanapun dengan mobil. Hanya dengan memasangkan iklan di kendaraan anda, anda telah mengubah kendaraan anda menjadi sumber penghasilan tambahan.</p>
 <!--         <div class="text-md-right text-xs-center">
           <a href="#section-testimonials" class="btn btn-lg btn-success-outline">Lihat kata mober lain</a>
         </div> -->
