@@ -5,7 +5,7 @@
         <div class="media">
           <div class="media-left">
             <!-- <span class="media-object icon-logo display-1"></span> -->
-            <img src="img/dashboard_icon/headericon-90-90-white.png" alt="Mobilan Logo" class="img-responsive">
+            <img src="../img/dashboard_icon/headericon-90-90-white.png" alt="Mobilan Logo" class="img-responsive">
           </div>
           <small class="media-body media-bottom">
             &copy; 2017 - Mobilan Indonesia | Advertising Technology <br>
@@ -18,15 +18,18 @@
       <div class="col-md-6 col-lg-7">
         <ul class="nav nav-inline">
           <li class="nav-item">
-            <a class="nav-link" href="comingsoon.php">Tentang Kami <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="../">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./faq">FAQ</a>
+            <a class="nav-link" href="../mober.php">Mober</a>
+          </li>          
+          <li class="nav-item">
+            <a class="nav-link" href="#topFAQ">FAQ <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="comingsoon.php">Privacy & Policy</a>
+            <a class="nav-link" href="#">Privacy & Policy</a>
           </li>
-          <li class="nav-item"> <a class="nav-link" href="#landioCarousel">Back to top <span class="icon-caret-up"></span></a>
+          <li class="nav-item"> <a class="nav-link" href="#topFAQ">Back to top <span class="icon-caret-up"></span></a>
           </li>
         </ul>
           <div class="text-xs-center text-md-right">
