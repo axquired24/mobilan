@@ -30,7 +30,7 @@
 			<li>
 				<a class="cd-faq-trigger" href="#0">Apa itu Mobilan Indonesia ?</a>
 				<div class="cd-faq-content">
-					<p>Mobilan Indonesia merupakan layanan car advertising  dengan system tracking yang memudahkan anda untuk beriklan dijalan dan berpotensi dilihat para pengguna jalan.</p>
+					<p>Mobilan Indonesia merupakan layanan car advertising  dengan system tracking yang membantu pengiklan mengkampanyekan brandnya di daerah yang di inginkan dan dapat memantau iklannya secara realtime.</p>
 				</div> <!-- cd-faq-content -->
 			</li>
 
@@ -55,7 +55,7 @@
 			<li>
 				<a class="cd-faq-trigger" href="#0">Bagaimana cara bergabung menjadi Mober?</a>
 				<div class="cd-faq-content">
-					<p>Silahkan mendaftar menjadi Mober di link berikut ini.</p>
+					<p>Silahkan mendaftar menjadi Mober di link berikut ini. <br> <a href="//mobilan.id/mober.php">Daftar Mober</a></p>
 				</div> <!-- cd-faq-content -->
 			</li>
 
