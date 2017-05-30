@@ -148,9 +148,9 @@
         // var originAllowed = 'http://localhost';
         var adserBaseURL  = 'https://api.mobilan.id';
         // For Demo
-        var originAllowed = 'https://v2.mobilan.id';
+        // var originAllowed = 'https://v2.mobilan.id';
         // For Real Site
-        // var originAllowed = 'https://mobilan.id';
+        var originAllowed = 'https://mobilan.id';
 
         // Ajax Form Register
         $.ajax({

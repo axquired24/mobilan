@@ -27,7 +27,7 @@
             <a class="nav-link" href="#topFAQ">FAQ <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Privacy & Policy</a>
+            <a class="nav-link" href="./privacy.php">Privacy & Policy</a>
           </li>
           <li class="nav-item"> <a class="nav-link" href="#topFAQ">Back to top <span class="icon-caret-up"></span></a>
           </li>

@@ -24,7 +24,7 @@
             <a class="nav-link" href="./faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="comingsoon.php">Privacy & Policy</a>
+            <a class="nav-link" href="./faq/privacy.php">Privacy & Policy</a>
           </li>
           <li class="nav-item"> <a class="nav-link" href="#landioCarousel">Back to top <span class="icon-caret-up"></span></a>
           </li>
