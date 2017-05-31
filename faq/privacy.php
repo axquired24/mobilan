@@ -17,7 +17,7 @@
 <header>
 	<h1>Kebijakan Privasi - Mobilan Indonesia</h1>
 </header>
-<section id="topFAQ" class="cd-faq">
+<section id="topFAQ" class="body-wrapper">
 	<h2 class="section-title">Periksa Kebijakan Privasi Kami dan Lihat Bagaimana Privasi Mitra Kami Lindungi</h2>
 	<p class="section-text">Kami berusaha untuk menawarkan layanan terbaik - menawarkan kesempatan berkendara kepada Mitra untuk mendapatkan penghasilan tambahan dengan menempelkan stiker pada kendaraan Mitra (dalam hal ini "mobil") yang dapat menarik perhatian dan menyampaikan pesan komersial suatu perusahaan atau produk dari perusahaan tersebut. Untuk tujuan Kebijakan Privasi ini ("Kebijakan" atau "Kebijakan Privasi"), istilah "kami", "kita", dan "Mobilan." Mengacu kepada Mobilan Indonesia (Mobilan), sebuah perusahaan Teknologi Advertising (Periklanan). "Mober" merujuk kepada “Mitra” dan “Adser” merujuk kepada “Pelanggan” , sebagai pengguna layanan Mobilan. Kebijakan Privasi di bawah ini mengatur akun Mobilan Mitra dan Pelangg serta informasi yang Mitra maupun Pelanggan berikan di situs ini. <br>
 	Kebijakan Privasi ini mencakup,  baik (misalnya, Web dan Mobile layanan "Online" kami, termasuk situs-situs Web yang dioperasikan oleh kami seperti www.mobilan.id, Aplikasi Mobile, namun diakses atau digunakan, baik melalui komputer pribadi, perangkat mobile atau sebaliknya) dan "Offline" (misalnya, pengumpulan data melalui surat, kegiatan telepon, atau secara langsung) yang dimiliki, dioperasikan, disediakan, atau disediakan oleh Mobilan. Kegiatan "Online" dan "Offline" kami secara kolektif dirujuk sebagai “Layanan”. Kebijakan Privasi ini juga berlaku untuk penggunaan Mitra dan Pelanggan terhadap fitur interaktif kami atau pengunggahannya  yang: <br>
@@ -188,7 +188,8 @@
 		Mobilan berhak untuk memperbarui Kebijakan Privasi ini setiap saat. Informasi tentang pembaharuan akan dikirim ke alamat email yang diberikan atau akan ditempatkan di tempat yang menonjol di situs kami.
 		
 	</p>	
-	<h1 align="center">Pertanyaan mengenai Kebijakan Privasi ini dapat dikirim melalui <br><br>
+	
+	<h1 align="center" style="line-height: 2em; border-top:#CCC 1px solid; padding-top: 2em; margin-top:2em;">Pertanyaan mengenai Kebijakan Privasi ini dapat dikirim melalui <br><br>
 	<a class="btn btn-sm btn-success" href="mailto:admin@mobilan.id">admin@mobilan.id</a></h1>
 </section> <!-- cd-faq -->
 

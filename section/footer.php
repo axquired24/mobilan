@@ -24,9 +24,12 @@
             <a class="nav-link" href="./faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./faq/privacy.php">Privacy & Policy</a>
+            <a class="nav-link" href="./faq/privacy.php">Kebijakan Privasi</a>
           </li>
-          <li class="nav-item"> <a class="nav-link" href="#landioCarousel">Back to top <span class="icon-caret-up"></span></a>
+          <li class="nav-item">
+            <a class="nav-link" href="./faq/terms.php">Syarat & Ketentuan</a>
+          </li>
+          <li class="nav-item"> <a class="nav-link" href="#landioCarousel">ke Atas <span class="icon-caret-up"></span></a>
           </li>
         </ul>
           <div class="text-xs-center text-md-right">

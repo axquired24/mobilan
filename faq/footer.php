@@ -19,17 +19,17 @@
         <ul class="nav nav-inline">
           <li class="nav-item">
             <a class="nav-link" href="../">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../mober.php">Mober</a>
-          </li>          
+          </li>     
           <li class="nav-item">
             <a class="nav-link" href="#topFAQ">FAQ <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./privacy.php">Privacy & Policy</a>
+            <a class="nav-link" href="./privacy.php">Kebijakan Privasi</a>
           </li>
-          <li class="nav-item"> <a class="nav-link" href="#topFAQ">Back to top <span class="icon-caret-up"></span></a>
+          <li class="nav-item">
+            <a class="nav-link" href="./terms.php">Syarat & Ketentuan</a>
+          </li>          
+          <li class="nav-item"> <a class="nav-link" href="#topFAQ">ke Atas <span class="icon-caret-up"></span></a>
           </li>
         </ul>
           <div class="text-xs-center text-md-right">
