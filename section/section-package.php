@@ -19,7 +19,7 @@
           </div>
           <ul class="list-group list-group-flush p-x list-mobilan-feature">
             <li class="list-group-item">4 Pintu kanan-kiri full stiker print</li>
-            <li class="list-group-item">Up to 800 Km</li>
+            <!-- <li class="list-group-item">Up to 800 Km</li> -->
             <li class="list-group-item">Driver (Mober)</li>
           </ul>
           <a onclick="selectPack('Rear Window')" href="#section-contact" class="btn btn-success">Pesan Paket ini</a>
@@ -42,7 +42,7 @@
           </div>
           <ul class="list-group list-group-flush p-x list-mobilan-feature">
             <li class="list-group-item">Full kaca belakang</li>
-            <li class="list-group-item">Up to 800 Km</li>
+            <!-- <li class="list-group-item">Up to 800 Km</li> -->
             <li class="list-group-item">Driver (Mober)</li>
           </ul>
           <a onclick="selectPack('Side Wrap')" href="#section-contact" class="btn btn-success">Pesan Paket ini</a>
@@ -65,7 +65,7 @@
           </div>
           <ul class="list-group list-group-flush p-x list-mobilan-feature">
             <li class="list-group-item">Space Brand (1 Kaca Belakang, 4 Pintu Mobil)</li>
-            <li class="list-group-item">Up to 800 Km</li>
+            <!-- <li class="list-group-item">Up to 800 Km</li> -->
             <li class="list-group-item">Driver (Mober)</li>
           </ul>
           <a onclick="selectPack('Startup Package')" href="#section-contact" class="btn btn-success">Pesan Paket ini</a>

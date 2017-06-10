@@ -17,7 +17,7 @@
           <div class="card-block">
             <!-- <span class="icon-heart display-1"></span> -->
             <img src="img/dashboard_icon/tap.png" class="display-1 img-fluid icondashboard" alt="Mobilan Assets">
-            <h4 class="card-title">Innovatif</h4>
+            <h4 class="card-title">Inovatif</h4>
             <h6 class="card-subtitle text-muted">Pelaporan Melalui Apps</h6>
             <p class="card-text">Dapatkan laporan berkala dari iklan anda terkait mengenai jarak dan kemana saja iklan anda bergerak.</p>
           </div>
