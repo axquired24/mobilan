@@ -168,6 +168,8 @@
             dataType: 'json',
             success:function(data){
                 $("#mobilanModal").modal("hide");
+                $('#moberName').val('');
+                $('#moberContact').val('');
                 alert('Terimakasih, ' + moberName + '. Kami akan menghubungi anda segera.');
                 console.log(data);
             },error:function(data){
