@@ -28,7 +28,7 @@
     </div>
     <ul class="nav nav-inline social-share">
       <li class="nav-item"><a class="nav-link" href="//facebook.com/mobilan.indonesia" target="_blank"><span class="fa fa-facebook"></span> /mobilan.indonesia</a></li>
-      <li class="nav-item"><a class="nav-link" href="//twitter.com/mobilan_id" target="_blank"><span class="fa fa-twitter"></span> @mobilan_id</a></li>
+      <!-- <li class="nav-item"><a class="nav-link" href="//twitter.com/mobilan_id" target="_blank"><span class="fa fa-twitter"></span> @mobilan_id</a></li> -->
       <li class="nav-item"><a class="nav-link" href="//instagram.com/mobilan_indonesia" target="_blank"><span class="fa fa-instagram"></span> mobilan_indonesia</a></li>
     </ul>
   </div>

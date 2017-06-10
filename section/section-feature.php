@@ -19,7 +19,7 @@
             <img src="img/dashboard_icon/tap.png" class="display-1 img-fluid icondashboard" alt="Mobilan Assets">
             <h4 class="card-title">Innovatif</h4>
             <h6 class="card-subtitle text-muted">Pelaporan Melalui Apps</h6>
-            <p class="card-text">Dapatkan laporan berkala dari iklan anda melalui aplikasi dan website. Ketahui kemana perginya setiap rupiah yang anda keluarkan untuk beriklan dan hasilnya</p>
+            <p class="card-text">Dapatkan laporan berkala dari iklan anda terkait mengenai jarak dan kemana saja iklan anda bergerak.</p>
           </div>
         </div>
       </div>  
@@ -30,7 +30,7 @@
             <img src="img/dashboard_icon/car.png" class="display-1 img-fluid icondashboard" alt="Mobilan Assets">
             <h4 class="card-title">Dinamis</h4>
             <h6 class="card-subtitle text-muted">Bergerak sesuai audience</h6>
-            <p class="card-text">Iklan anda akan bergerak mengikuti target audience anda. Tidak seperti cara konvensional yang hanya diam di suatu tempat seperti banner atau billboard</p>
+            <p class="card-text">Iklan anda akan bergerak seperti billboard yang berjalan</p>
           </div>
         </div>
       </div>

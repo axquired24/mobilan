@@ -98,15 +98,15 @@
 
     <!-- Pricing
     ================================================== -->
-    <?php include('section/section-pricing.php'); ?>
+    <?php include('section/section-package.php'); ?>
 
     <!-- Text Content
     ================================================== -->
     <?php include('section/section-text.php'); ?>
 
-    <!-- Testimonials
+    <!-- Clients
     ================================================== -->
-    <?php // include('section/section-testimonial.php'); ?>
+    <?php include('section/section-client.php'); ?>
 
     <!-- News
     ================================================== -->
@@ -174,6 +174,11 @@
             }
         });
       });
+
+      function selectPack (pack) {
+        $('#adserPackage').val(pack);
+        // $('#adserPackage').focus();
+      }
 
       // Smooth scrolling
       $(function() {

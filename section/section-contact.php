@@ -10,7 +10,7 @@
               <option value="">Pilih paket <span class="fa fa-chevron-right"></span></option>
               <option value="Rear Window">Rear Window</option>
               <option value="Side Wrap">Panel/Side Wrap</option>
-              <option value="Full Wrap">Full Wrap</option>
+              <option value="Startup Package">Startup Package</option>
             </select>
             <small class="form-text text-muted">* Paket yang disukai</small>
           </div>
