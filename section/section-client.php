@@ -15,7 +15,9 @@
 </style>
 <section id="section-text" class="section-text" style="margin-top: -6rem">
   <div class="container">
-    <h3 class="text-xs-center">Pelanggan <small><br>yang puas dengan pelayanan kami</small></h3>
+    <h3 class="text-xs-center">Our Clients 
+    <!-- <small><br></small> -->
+    </h3>
     <div align="center" class="row">
 <!--       <div class="col-xs-12">
         <img src="img/client_logo.png" class="img-fluid" alt="Pelanggan Mobilan Indonesia">

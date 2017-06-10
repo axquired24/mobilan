@@ -165,6 +165,10 @@
             dataType: 'json',
             success:function(data){
                 $("#mobilanModal").modal("hide");
+                // reset all form
+                $("#adserPackage").val("");
+                $("#adserName").val("");
+                $("#adserContact").val("");
                 alert('Terimakasih, ' + adserName + '. Kami akan menghubungi anda segera.');
                 console.log(data);
             },error:function(data){
