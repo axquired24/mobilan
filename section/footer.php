@@ -18,7 +18,7 @@
       <div class="col-md-6 col-lg-7">
         <ul class="nav nav-inline">
           <li class="nav-item">
-            <a class="nav-link" href="comingsoon.php">Tentang Kami <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="./faq/about.php">Tentang Kami <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="./faq">FAQ</a>
